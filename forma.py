@@ -4,5 +4,5 @@ class Forma :
     #* para cada clase  derivada 
     def perimetro(self):
         # Mensaje de error
-        raise NotImplementedError("imposible calcular el perimetro de unadomra genetica ")
+        raise NotImplementedError("imposible calcular el perimetro de una forma generica ")
     
