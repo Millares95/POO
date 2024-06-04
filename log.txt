@@ -1,0 +1,7 @@
+--Start log --
+Primera llamada
+<class 'str'>ª llamada
+<class 'str'>ª llamada
+<class 'str'>ª llamada
+<class 'str'>ª llamada
+--End Log :5log(s)--

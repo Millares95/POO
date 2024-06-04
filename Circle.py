@@ -8,3 +8,9 @@ c = Circle()
 c.radio = 2
 print(c.perimeter())
 
+p= Circle.perimeter
+# p = c.perimeter
+print(p(c))
+
+# r= Circle()
+# r.radio = 4 
