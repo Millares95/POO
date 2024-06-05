@@ -78,6 +78,12 @@ def destruirEdificiosEmpresa(ciudad):
             # ...se retira este edificio del patrimonio de la empresa.
              empresa.edificios.remove(edificio)   
 
+
 empresa.numeroDeEdificios()
 
 # Eliminación de la única referencia a la instancia de New York 
+del ny
+# Eliminación de la única referencia a la instancia de la empresa.
+del empresa
+# Fin del programa. El recolector de basura elimina las últimas 
+# instancias en el orden que le conviene.
