@@ -51,6 +51,9 @@ class ParedCortina(Pared, Ventana):
         self.__cristal = Cristal(superficie)
         Ventana.__init__(self, self, superficie)
 
+    def superficie_acristalada(self): 
+        return self.__cristal.superficie()
+
 class Cristal:
     def __init__(self, superficie) -> None:
         self.__superficie = superficie
