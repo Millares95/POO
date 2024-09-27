@@ -1,5 +1,5 @@
 # class Test:
-#     #Sobrecarga del destructor de la clase test 
+##Sobrecarga del destructor de la clase test 
 #     def __del__(self):
 #         print("Destrucción ")
 

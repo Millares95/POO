@@ -25,4 +25,3 @@ print(type(c))
 print(type(f))
 print(isinstance(c, Circulo)) #c es una instancia de circulo 
 
-# -----------------------------------------------------------------------------------

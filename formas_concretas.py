@@ -1,4 +1,4 @@
-from forma import Forma
+from 9_forma import Forma
 #* Una clase derivada
 class Cuadrado (Forma):
     def __init__(self,lado) -> None:
