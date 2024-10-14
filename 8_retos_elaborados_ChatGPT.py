@@ -1,13 +1,14 @@
 """Ejercicio 1: Definición y Uso de Clases
 Crea una clase Perro con los siguientes atributos: nombre, edad y raza. Añade un método llamado ladrar que imprima el mensaje "Guau!"."""
 
-# class  Perro:
-#     def __init__(self,nombre,edad,raza) -> None:
-#         self.nombre = nombre
-#         self.edad = edad
-#         self.raza = raza 
-#     def ladrar(self):
-#         print("Guau")
+class  Perro:
+    def __init__(self,nombre,edad,raza) -> None:
+        self.nombre = nombre
+        self.edad = edad
+        self.raza = raza 
+    def ladrar(self):
+        print("Guau")
+
 
 # perro1 = Perro("Budy",10,"pequine")
 # perro1.ladrar()
