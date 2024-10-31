@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Coche nombre="delorean">
+    <Propietario>Doc Emmett Brown</Propietario>
+    <Equipamientos>
+        <Equipamiento tipo="Convector temporal"/>
+        <Equipamiento tipo="Generador de fision"/> 
+    </Equipamientos> 
+</Coche>

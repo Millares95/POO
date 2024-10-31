@@ -1,0 +1,16 @@
+{
+    "modelo": "Delorean",
+    "propietario": "Emmett Brown",
+    "equipamientos": [
+        {
+            "equipamiento": {
+                "tipo": "Convector temporal"
+            }
+        },
+        {
+            "equipamiento": {
+                "tipo": "Generador de fisión"
+            }
+        }
+    ]
+}
