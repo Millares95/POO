@@ -1,0 +1,12 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "1",
+            "group": "1",
+            "database": "${workspaceFolder:Libro_de_poo}/ejemplo.db"
+        }
+    ]
+}
